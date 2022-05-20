@@ -1,4 +1,3 @@
-### Hello there 👋
 - :space_invader: Working on multiple frontend and backend projects (:computer: & :iphone:)
 - :mag_right: Mastering every tiny detail
 - :notes: Music during work is perfect
